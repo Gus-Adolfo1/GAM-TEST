@@ -5,7 +5,9 @@ VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GAM.Temperatura", "GAM-TEST\GAM.Temperatura.csproj", "{10B4F5D5-C66A-49B0-B7BA-78604DF92208}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GAM.StringConverter.UnitTest.AppxUnit", "GAM.StringConverter.UnitTest.AppxUnit\GAM.StringConverter.UnitTest.AppxUnit.csproj", "{C1F8A7FE-C462-4C49-8FFE-D4A5E10CB419}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GAM.StringConverter.UnitTest.AppxUnit", "GAM.StringConverter.UnitTest.AppxUnit\GAM.StringConverter.UnitTest.AppxUnit.csproj", "{C1F8A7FE-C462-4C49-8FFE-D4A5E10CB419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GAM.Temperatura.UnitTest.MSTest", "GAM.Temperatura.UnitTest.MSTest\GAM.Temperatura.UnitTest.MSTest.csproj", "{FA659C67-B59D-4D8D-8B59-C394B00AF6CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C1F8A7FE-C462-4C49-8FFE-D4A5E10CB419}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1F8A7FE-C462-4C49-8FFE-D4A5E10CB419}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1F8A7FE-C462-4C49-8FFE-D4A5E10CB419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA659C67-B59D-4D8D-8B59-C394B00AF6CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA659C67-B59D-4D8D-8B59-C394B00AF6CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA659C67-B59D-4D8D-8B59-C394B00AF6CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA659C67-B59D-4D8D-8B59-C394B00AF6CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
